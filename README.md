@@ -1,6 +1,6 @@
 # Streaming-Yahoo-Finance-Data-with-AWS-Lambda
 
-In this project, I provisioned a lambda function to generate a real time data pipeline for finance data records for interactive querying and further data analysis. Using [yfinance](https://pypi.org/project/yfinance/) module, I grabbed the price information for each of the following stocks:
+In this project, I provisioned a lambda function to generate a real time data pipeline for interactive querying and further data analysis. Using [yfinance](https://pypi.org/project/yfinance/) module, I grabbed the price information for each of the following stocks:
 
 • Facebook (FB) \
 • Shopify (SHOP) \
