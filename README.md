@@ -36,5 +36,8 @@ AWS Services: Lambda, Kinesis, Glue, S3, Athena, Python, API
 ## Kinesis Configuration
 ![alt text](https://github.com/atekee/Streaming-Yahoo-Finance-Data-with-AWS-Lambda/blob/main/assets/kinesis_config.png)
 
+## Execution Results
+![alt text](https://github.com/atekee/Streaming-Yahoo-Finance-Data-with-AWS-Lambda/blob/main/exec_results.png)
+
 ## S3 Content
 ![alt text](https://github.com/atekee/Streaming-Yahoo-Finance-Data-with-AWS-Lambda/blob/main/assets/screen_shot_of_s3_bucket.png)
